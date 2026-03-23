@@ -72,5 +72,3 @@ Use HTTPS in production. If the update file is sensitive, protect the download e
 No warranty, no support, use at your own risk. The rest of the app can hit the network, ask for admin, or run batch stuff depending on what you click. Read the code before you run it on anything important.
 
 **Credits:** redskyservice.
-
-There’s no license file in the repo; add one if you redistribute. Third-party bits (Guna, Fody, etc.) live under `packages/` with their own terms.
