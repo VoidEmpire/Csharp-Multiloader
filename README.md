@@ -71,4 +71,4 @@ Use HTTPS in production. If the update file is sensitive, protect the download e
 
 No warranty, no support, use at your own risk. The rest of the app can hit the network, ask for admin, or run batch stuff depending on what you click. Read the code before you run it on anything important.
 
-**Credits:** redskyservice.
+**Credits:** redskyservice (Now VoidEmpire).
